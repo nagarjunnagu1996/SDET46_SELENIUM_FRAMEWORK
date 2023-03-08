@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T21:46:59 IST" name="Default suite" finished-at="2023-03-05T21:46:59 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2023-03-05T21:46:59 IST" name="Default test" finished-at="2023-03-05T21:46:59 IST" duration-ms="68">
+      <class name="practice.practice_class">
+        <test-method signature="listener()[pri:0, instance:practice.practice_class@505fc5a4]" started-at="2023-03-05T21:46:59 IST" name="listener" finished-at="2023-03-05T21:46:59 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listener -->
+      </class> <!-- practice.practice_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
